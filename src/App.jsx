@@ -38,7 +38,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="title">YAAAAAAY!!</h1>
+      <h1 className="title">YAAAAAHAY!!</h1>
     </div>
   )
 }
